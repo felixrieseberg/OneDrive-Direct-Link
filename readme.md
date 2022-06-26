@@ -1,5 +1,7 @@
 <b>由于被黑客利用与传播病毒文件，站点永久关闭  
-Due to being used by hackers to spread virus files, the site is permanently closed
+Due to being used by hackers to spread virus files, the site is permanently closed.
+    
+Alternatively, use: `npx onedrive-link https://1drv.ms/u/s!Aiw77soXua44hb4CEu6eSveUl0xUoA` to generate a direct-download link.
 </b>
 
 <hr>
